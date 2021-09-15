@@ -1,0 +1,1 @@
+let miArray = ['Amarillo', 'Rojo', 'Azul', 'Violeta', 'Negro']
