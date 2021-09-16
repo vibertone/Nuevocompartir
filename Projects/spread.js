@@ -20,3 +20,4 @@ function ConVariosParametros(...params){
 
 ConVariosParametros("a");
 ConVariosParametros("a","b");
+//.
